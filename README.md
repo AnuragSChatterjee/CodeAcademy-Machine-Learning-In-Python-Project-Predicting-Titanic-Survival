@@ -1,2 +1,2 @@
 # CodeAcademy-Machine-Learning-In-Python-Project-Predicting-Titanic-Survival
-Machine learning from disaster using Logistic Regression
+In this project, I created a Logistic Regression model that predicts which passengers survived the sinking of the Titanic, based on features like age and class.
